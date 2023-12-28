@@ -1,0 +1,22 @@
+button {
+    background-color: red;
+    color: #ffffff;
+}
+
+button:hover {
+    background-color: red;
+    color: #ffffff
+}
+
+img {
+    width: 100%;
+    cursor: pointer;
+}
+
+h5 {
+    color: red;
+}
+
+p {
+    color: #ffffff;
+}
